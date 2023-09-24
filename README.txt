@@ -9,7 +9,7 @@ There is also a sudoku with the chess King constraints and additionally the Diag
 We aim to generate a solvable puzzle that requires the application of various beginner, intermediate and advanced Sudoku techniques to be solved. 
 
 
-Technique used to solve the Sudokus:
+Techniques used to solve the Sudokus:
 
 Naked Singles: Identifying cells with only one possible value and filling them.
 Hidden Singles: Locating cells where a digit can only go in one position within a unit (row, column, or box) and filling them.
